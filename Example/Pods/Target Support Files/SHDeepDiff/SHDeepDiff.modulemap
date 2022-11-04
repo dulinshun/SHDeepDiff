@@ -1,0 +1,6 @@
+framework module SHDeepDiff {
+  umbrella header "SHDeepDiff-umbrella.h"
+
+  export *
+  module * { export * }
+}

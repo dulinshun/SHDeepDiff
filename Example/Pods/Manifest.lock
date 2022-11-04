@@ -1,0 +1,16 @@
+PODS:
+  - SHDeepDiff (0.1.0)
+
+DEPENDENCIES:
+  - SHDeepDiff (from `../`)
+
+EXTERNAL SOURCES:
+  SHDeepDiff:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SHDeepDiff: 11a0ffa8ee5e69ec97a32fda09617da5dcc2f0fe
+
+PODFILE CHECKSUM: cc222e748e1b8f46c52dd23daa6abfbdaa609a3d
+
+COCOAPODS: 1.11.3
